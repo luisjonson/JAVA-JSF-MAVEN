@@ -1,0 +1,10 @@
+127.0.0.1 - - [16/Feb/2022:00:06:58 -0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:00:08:46 -0200] "GET /Financeiro/nomes.xhtml HTTP/1.1" 200 673
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:00:08:54 -0200] "GET /Financeiro/nomes.xhtml HTTP/1.1" 200 673
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:00:08:55 -0200] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:00:08:57 -0200] "POST /Financeiro/nomes.xhtml;jsessionid=4E2DB3162DE4E2CFEC7372457F4612C4 HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:00:08:59 -0200] "POST /Financeiro/Ola.xhtml HTTP/1.1" 200 690
+127.0.0.1 - - [16/Feb/2022:00:11:39 -0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:00:14:12 -0200] "POST /Financeiro/nomes.xhtml;jsessionid=53A49CB90158BD7D35BDEDE4689A7A1D HTTP/1.1" 500 1754
+127.0.0.1 - - [16/Feb/2022:00:14:56 -0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:00:15:16 -0200] "GET /Financeiro/DHTML.xhtml HTTP/1.1" 200 703
